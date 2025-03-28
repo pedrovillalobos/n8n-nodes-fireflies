@@ -1,6 +1,8 @@
-# n8n-nodes-fireflies
+# Unofficial n8n node module for Fireflies.ai
 
-Custom n8n node module for Fireflies.ai.
+## n8n-nodes-fireflies
+
+Note: This is an unofficial n8n node module, all image and content rights are property of Fireflies.ai
 This node provides transcription information based on the Meeting ID that you can collect from their webhook call to you n8n installation.
 It also provides the full transcription and a script to convert the transcription to SRT and TXT. Right now, just copy and paste the content of [convert-sentence-to-srt-txt](convert-sentence-to-srt-txt.py) in a script node in n8n
 
